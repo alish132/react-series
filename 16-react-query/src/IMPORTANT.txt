@@ -1,0 +1,8 @@
+============>  React Query  <============
+// What i learn in React Query
+
+useQuery for fetching data from API.
+useMutation for posting data in API.
+save data in cache for specific time.
+Refetch data after certain interval.
+Pagination 

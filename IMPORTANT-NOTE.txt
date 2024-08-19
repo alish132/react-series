@@ -1,0 +1,13 @@
+if we create a new file than it is always a best practise to name your file with uppercase.
+Always named your function with uppercase.
+If we are creating a new file which return HTML known as components then it is recommended to name that file with .jsx extention
+
+#########  Hooks   ##########
+React hooks are useful if we are updating multiple values or state on single click and reflecting that in webpage.
+Hooks in React are essential tools for managing state and side effects in function components. By using hooks we can update state, context or value and ensure that these changes are reflected on the webpage.
+
+############    Reconciliation  #############
+The Reconciliation algorithm of React uses to differentiate one tree with another to determine which parts need to be changed.
+Reconciliation is the algorithm behind what is popularly understood as the "virtual DOM." A high-level description goes something like this: when you render a React application, a tree of nodes that describes the app is generated and saved in memory. This tree is then flushed to the rendering environment — for example, in the case of a browser application, it's translated to a set of DOM operations. When the app is updated (usually via setState), a new tree is generated. The new tree is diffed with the previous tree to compute which operations are needed to update the rendered app.
+
+##########  React Props    #######
